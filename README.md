@@ -8,4 +8,4 @@ Four labs of operating systems spring 2021
 * lab4: I/O scheduler
 
 ## Disclaimer
-If you are currently studying OS in NYU, you shouldn't use any parts of my code in your labs.
+If you are currently taking OS classes in NYU, you shouldn't and not allowed to use any parts of my code in your labs.
