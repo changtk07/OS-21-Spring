@@ -1,0 +1,18 @@
+Warning: Module 1: ab too big 6 (max=2) assume zero relative
+Warning: Module 2: xy too big 8 (max=4) assume zero relative
+Symbol Table
+ab=0
+xy=3
+
+Memory Map
+000: 1000
+001: 2000
+002: 3000
+003: 1007
+004: 5678
+005: 2000 Error: z is not defined; zero used
+006: 8005
+007: 7003
+
+Warning: Module 1: ab was defined but never used
+
